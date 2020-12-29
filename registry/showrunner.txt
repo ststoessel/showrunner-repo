@@ -1,0 +1,8 @@
+HKEY_CURRENT_USER\Software\Classes\directory\shell
+add a new key under shell, naming it as you want to name the context menu item
+add a new key inside this key, named command (mandatory name)
+edit the default property in command to myprogrampath\path\path\executable.exe %1 to pass the file path and name of the selected file to your custom program
+
+command = D:\showrunner\ShowRunner-1.00-SNAPSHOT.exe %1
+
+

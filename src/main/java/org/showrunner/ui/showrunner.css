@@ -1,0 +1,9 @@
+.defaultBorderSpacing {
+    -fx-border-width: 10;
+    -fx-border-color: transparent;
+}
+
+GridPane {
+    -fx-hgap: 10;
+    -fx-vgap: 10;
+}
