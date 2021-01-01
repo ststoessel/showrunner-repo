@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <orderNumber>1</orderNumber>
+    <orderDate>Tue Mar 31 01:25:14 CEST 2020</orderDate>
+    <items>
+        <item>
+            <quantity>1</quantity>
+            <id>0001</id>
+            <name>Darth Vader </name>
+            <price>25.0</price>
+        </item>
+        <item>
+            <quantity>5</quantity>
+            <id>0002</id>
+            <name>Stormtrooper</name>
+            <price>19.99</price>
+        </item>
+        <item>
+            <quantity>1</quantity>
+            <id>0001</id>
+            <name>Obi Wan</name>
+            <price>39.0</price>
+        </item>
+    </items>
+</order>
